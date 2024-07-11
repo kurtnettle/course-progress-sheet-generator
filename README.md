@@ -1,3 +1,6 @@
+# Screenshot of the Sheet
+![image](https://github.com/user-attachments/assets/7cf65020-a58f-404e-a532-1ebbb6df2713)
+
 # Steps To Run
 
 ### 1. Follow the steps mentioned [here](https://developers.google.com/sheets/api/quickstart/python) until "Install the Google client library"
