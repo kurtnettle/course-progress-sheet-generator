@@ -1,0 +1,47 @@
+[semester]
+name = "Fall 2024"
+
+[term.mid]
+start = 2024-07-01
+end = 2024-08-24
+
+[term.final]
+start = 2024-08-17
+end = 2024-11-18
+
+[courses.CSE-351]
+name = "Artificial Intelligence and Expert System"
+days = ["MON", "TUE"]
+
+[courses.CSE-320]
+name = "Computer Network Lab"
+days = ["SUN"]
+
+[courses.CSE-319]
+name = "Computer Network"
+days = ["SUN", "WED"]
+
+[courses.CSE-327]
+name = "Software Engineering"
+days = ["TUE", "THR"]
+
+[courses.CSE-328]
+name = "Software Engineering Lab"
+days = ["WED"]
+
+
+[courses.CSE-352]
+name = "Artificial Intelligence and Expert System Lab"
+days = ["MON"]
+
+[courses.CSE-407]
+name = "Project Management and Professional Ethics"
+days = ["THR"]
+
+[courses.CSE-417]
+name = "Distributed Database Management Systems"
+days = ["SUN", "WED"]
+
+[courses.CSE-418]
+name = "Distributed Database Management Systems Lab"
+days = ["THR"]
